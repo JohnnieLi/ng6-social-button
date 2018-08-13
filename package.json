@@ -1,0 +1,50 @@
+{
+  "name": "ng6-social-button",
+  "version": "0.0.1",
+  "license":"MIT",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/JohnnieLi/ng6-social-button.git"
+  },
+  "homepage": "https://github.com/JohnnieLi/ng6-social-button.git#readme",
+  "bugs":
+  { "url" : "https://github.com/JohnnieLi/ng6-social-button.git/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "keywords": [
+    "angular",
+    "angular6",
+    "ng6",
+    "angular social button",
+    "angular facebook button",
+    "angular google button",
+    "angular wechat button",
+    "angular 6 social button",
+    "angular6 social button",
+    "angular6-social-button",
+    "angular-6-social-button",
+    "ng-social-button",
+    "ng6-social-button",
+    "angular social login",
+    "angular facebook login",
+    "angular google login",
+    "angular 6 social login",
+    "angular6 social login",
+    "social authentication",
+    "angular social authentication",
+    "social-authentication",
+    "social-login",
+    "google-authentication",
+    "angular-google-authentication",
+    "facebook-authentication",
+    "angular-facebook-authentication",
+    "angular module"
+  ],
+  "author": {
+    "name": "Jiangqi Li",
+    "email": "jiangqi.li@outlook.com"
+  }
+}
