@@ -257,7 +257,7 @@ export class SocialComponent {
 ----
 
 
-## Social Clinet/App Id
+## Social Client/App Id
 
 ### Facebook App Id :
 
